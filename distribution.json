@@ -1,0 +1,330 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "Amethystia-1.21.4",
+      "name": "Amethystia",
+      "description": "Welcome to Amethystia Server - Minecraft 1.21.4 with Fabric",
+      "icon": "https://raw.githubusercontent.com/LeeReiJ/amethystia-launcher/main/logo.png",
+      "version": "1.0.0",
+      "address": "76.184.50.255:25565",
+      "minecraftVersion": "1.21.4",
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.fabricmc:fabric-loader:0.16.9",
+          "name": "Fabric (fabric-loader)",
+          "type": "Fabric",
+          "artifact": {
+            "size": 1387357,
+            "MD5": "27a6ef87676ce6316c777d81c1cd2962",
+            "url": "https://leereij.github.io/repo/lib/net/fabricmc/fabric-loader/0.16.9/fabric-loader-0.16.9.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.21.4-fabric-0.16.9",
+              "name": "Fabric (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 2857,
+                "MD5": "732f52a18b2211b3cf021ec3c7e45c96",
+                "url": "https://leereij.github.io/repo/versions/1.21.4-fabric-0.16.9/1.21.4-fabric-0.16.9.json"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.7.1",
+              "name": "Fabric (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126093,
+                "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
+                "url": "https://leereij.github.io/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.7.1",
+              "name": "Fabric (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35126,
+                "MD5": "4cd9e7178dfb85371bba3077e40cd514",
+                "url": "https://leereij.github.io/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.7.1",
+              "name": "Fabric (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73459,
+                "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
+                "url": "https://leereij.github.io/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.7.1",
+              "name": "Fabric (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51939,
+                "MD5": "e85029f613b6469989cc7cf53fe06b74",
+                "url": "https://leereij.github.io/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.7.1",
+              "name": "Fabric (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94519,
+                "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
+                "url": "https://leereij.github.io/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:sponge-mixin:0.15.4+mixin.0.8.7",
+              "name": "Fabric (sponge-mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1494834,
+                "MD5": "991ca8be2c408fe19eb64014d8a18243",
+                "url": "https://leereij.github.io/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+              }
+            },
+            {
+              "id": "net.fabricmc:intermediary:1.21.4",
+              "name": "Fabric (intermediary)",
+              "type": "Library",
+              "artifact": {
+                "size": 701826,
+                "MD5": "d0f4187a62328d4a95f3428434efbd48",
+                "url": "https://leereij.github.io/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "moe.caramel.chat:caramelchat:1.2.0@jar",
+          "name": "CaramelChat",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 163227,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/optionalon/caramelChat-mc1.20.4-fabric-1.2.0.jar",
+            "MD5": "59afda01c0be221d5e692e97dd2b77bf"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xyz.flirora:caxton:0.6.0-alpha.6+1.21.4-FABRIC@jar",
+          "name": "Caxton",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 4762622,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/required/caxton-0.6.0-alpha.6+1.21.4-FABRIC.jar",
+            "MD5": "0185bde3e0a96e903df6acf7d44a70ed"
+          }
+        },
+        {
+          "id": "me.shedaniel.autoconfig.example:cloth-config:17.0.144@jar",
+          "name": "Cloth Config v17",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1152857,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/required/cloth-config-17.0.144-fabric.jar",
+            "MD5": "07b7d5bc15bdc7387cf8890d0c460b54"
+          }
+        },
+        {
+          "id": "com.cupboard:cupboard:1.21-2.9@jar",
+          "name": "Cupboard",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 23781,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/required/cupboard-fabric-1.21-2.9.jar",
+            "MD5": "a94bfab1f1eff3cc9e7493f3aa8d2dbb"
+          }
+        },
+        {
+          "id": "com.seibel:distanthorizons:2.3.2-b@jar",
+          "name": "Distant Horizons",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 17921078,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/optionaloff/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.4.jar",
+            "MD5": "9fc3979a7fc99fd1fce370c21c2a02eb"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "traben.entity_model_features:entity_model_features:2.4.1@jar",
+          "name": "Entity Model Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 448076,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/required/entity_model_features_fabric_1.21.4-2.4.1.jar",
+            "MD5": "9cc1a837a6efdb2b6a1a9551ef0ede02"
+          }
+        },
+        {
+          "id": "traben.entity_texture_features:entity_texture_features:6.2.10@jar",
+          "name": "Entity Texture Features",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 651894,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/required/entity_texture_features_fabric_1.21.4-6.2.10.jar",
+            "MD5": "9be40af3c19984cc4cffaf5e3fc2b898"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-api:0.113.0+1.21.4@jar",
+          "name": "Fabric API",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2087179,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/required/fabric-api-0.113.0+1.21.4.jar",
+            "MD5": "d077b2d6168aa1e85b4bdabe84256206"
+          }
+        },
+        {
+          "id": "generated.fabricmod:fabric-language-kotlin:1.13.3+kotlin.2.1.21@jar",
+          "name": "Fabric Language Kotlin",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 7163558,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/required/fabric-language-kotlin-1.13.3+kotlin.2.1.21.jar",
+            "MD5": "3c186cee540e7f21d8327bed71dd9d6b"
+          }
+        },
+        {
+          "id": "com.anthonyhilyard:iceberg:1.2.13@jar",
+          "name": "Iceberg",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 384309,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/required/Iceberg-1.21.4-fabric-1.2.13.jar",
+            "MD5": "f3a60a6bee522c264e56107ecca2bb82"
+          }
+        },
+        {
+          "id": "me.pieking1215:invmove:0.9.0@jar",
+          "name": "InvMove",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 126214,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/optionaloff/InvMove-0.9.0+1.21.4-Fabric.jar",
+            "MD5": "4f6ae7d2d8a7a88a3c1886f1b8b659df"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
+          "name": "Iris",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 2682702,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/optionalon/iris-fabric-1.8.8+mc1.21.4.jar",
+            "MD5": "59d373e4874efbcb8fb426bdefa588d9"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.anthonyhilyard:legendarytooltips:1.5.1@jar",
+          "name": "Legendary Tooltips",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 66251,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/optionaloff/LegendaryTooltips-1.21.4-fabric-1.5.1.jar",
+            "MD5": "f173a41f6a01310d31bc5d1eb7f55f92"
+          },
+          "required": {
+            "value": false,
+            "def": false
+          }
+        },
+        {
+          "id": "org.anti_ad.mc:libipn:6.5.0@jar",
+          "name": "LibIPN",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 632940,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/required/libIPN-fabric-1.21.4-6.5.0.jar",
+            "MD5": "e2ee689f907727c7b0408581132ebe83"
+          }
+        },
+        {
+          "id": "generated.fabricmod:prism:1.0.10@jar",
+          "name": "Root project 'Prism'",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 61631,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/required/Prism-1.21.4-fabric-1.0.10.jar",
+            "MD5": "66051303e3433bc10796c2c92f57c7da"
+          }
+        },
+        {
+          "id": "generated.fabricmod:reeses-sodium-options:1.8.2+mc1.21.4@jar",
+          "name": "Reese's Sodium Options",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 81062,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/required/reeses-sodium-options-fabric-1.8.2+mc1.21.4.jar",
+            "MD5": "fe867d6df4c5946f45ebdf3c1c560735"
+          }
+        },
+        {
+          "id": "net.caffeinemc.mods:sodium:0.6.13+mc1.21.4@jar",
+          "name": "Sodium",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1306799,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "MD5": "28922a78d1876ee062e3265f10abcc46"
+          }
+        },
+        {
+          "id": "xaero.minimap:xaerominimap:25.2.6@jar",
+          "name": "Xaero's Minimap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 1729238,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/optionalon/Xaeros_Minimap_25.2.6_Fabric_1.21.4.jar",
+            "MD5": "c6a8a999196caa3fd73c60d642d340ab"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "xaero.map:xaeroworldmap:1.39.4@jar",
+          "name": "Xaero's World Map",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 950072,
+            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/optionalon/XaerosWorldMap_1.39.4_Fabric_1.21.4.jar",
+            "MD5": "2f0cd1f8a41de3a0c630e3081cb3dac1"
+          },
+          "required": {
+            "value": false
+          }
+        }
+      ]
+    }
+  ]
+}

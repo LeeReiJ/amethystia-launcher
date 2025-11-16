@@ -3,16 +3,11 @@
   "meta": {
     "version": "1.0.0",
     "name": "Amethystia",
-    "description": "Welcome to Amethystia Server!",
-    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
-    "address": "76.184.50.255",
-    "discord": {
-      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
-      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
-    },
-    "mainServer": false,
-    "autoconnect": false
+    "description": "Welcome to Amethystia Server - Minecraft 1.21.4 with Fabric",
+    "icon": "https://raw.githubusercontent.com/LeeReiJ/amethystia-launcher/main/logo.png",
+    "address": "76.184.50.255:25565",
+    "mainServer": true,
+    "autoconnect": true
   },
   "fabric": {
     "version": "0.16.9"
