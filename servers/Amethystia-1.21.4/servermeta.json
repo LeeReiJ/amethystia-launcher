@@ -1,11 +1,16 @@
 {
+  "$schema": "file:///C:/Users/iraej/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/%EB%A7%88%ED%81%AC/workspace/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
     "name": "Amethystia",
-    "description": "Welcome to Amethystia",
-    "icon": "logo.png",
+    "description": "Welcome to Amethystia Server - Minecraft 1.21.4 with Fabric",
+    "icon": "https://raw.githubusercontent.com/LeeReiJ/amethystia-launcher/main/logo.png",
     "address": "76.184.50.255:25565",
     "mainServer": true,
     "autoconnect": true
-  }
+  },
+  "fabric": {
+    "version": "0.16.9"
+  },
+  "untrackedFiles": []
 }
