@@ -216,7 +216,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "https://leereij.github.io/amethystia-launcher/servers/Amethystia-1.21.4/fabricmods/optionalon/iris-fabric-1.8.8+mc1.21.4.jar"
+            "url": "https://leereij.github.io/amethystia-launcher/servers/Amethystia-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar"
           },
           "required": {
             "value": false
