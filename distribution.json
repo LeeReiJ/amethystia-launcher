@@ -5,6 +5,7 @@
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
+  "rss": "https://leereij.github.io/amethystia-launcher/news.xml",
   "servers": [
     {
       "id": "Amethystia-1.21.4",

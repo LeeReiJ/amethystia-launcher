@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Amethystia 서버 뉴스</title>
+    <description>Amethystia 마인크래프트 서버 최신 소식</description>
+    <link>https://leereij.github.io/amethystia-launcher/</link>
+    <language>ko</language>
+    <lastBuildDate>Sat, 16 Nov 2024 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://leereij.github.io/amethystia-launcher/news.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>🎉 Amethystia 서버 그랜드 오픈!</title>
+      <description><![CDATA[
+        <h2>Amethystia에 오신 것을 환영합니다!</h2>
+        <p>Fabric 1.21.4 기반의 새로운 마인크래프트 서버가 오픈했습니다.</p>
+        <p><strong>서버 특징:</strong></p>
+        <ul>
+          <li>최신 Fabric 모드 지원</li>
+          <li>커스텀 런처로 간편한 접속</li>
+          <li>최적화된 서버 성능</li>
+          <li>친근한 커뮤니티</li>
+        </ul>
+        <p>지금 바로 접속해보세요!</p>
+      ]]></description>
+      <author>관리자</author>
+      <pubDate>Sat, 16 Nov 2024 12:00:00 +0000</pubDate>
+      <link>https://discord.gg/yourserver</link>
+      <guid>amethystia-news-001</guid>
+    </item>
+    
+    <item>
+      <title>⚙️ 모드 리스트 업데이트</title>
+      <description><![CDATA[
+        <h2>새로운 모드가 추가되었습니다</h2>
+        <p>다음 모드들이 서버에 추가되었습니다:</p>
+        <ul>
+          <li><strong>Fabric API</strong> - 필수 모드</li>
+          <li><strong>Sodium</strong> - 성능 최적화</li>
+          <li><strong>Iris</strong> - 셰이더 지원</li>
+          <li><strong>Legendary Tooltips</strong> - UI 개선</li>
+        </ul>
+        <p>런처를 통해 자동으로 다운로드됩니다.</p>
+      ]]></description>
+      <author>관리자</author>
+      <pubDate>Fri, 15 Nov 2024 10:00:00 +0000</pubDate>
+      <link>https://github.com/LeeReiJ/amethystia-launcher</link>
+      <guid>amethystia-news-002</guid>
+    </item>
+    
+    <item>
+      <title>📢 서버 규칙 안내</title>
+      <description><![CDATA[
+        <h2>서버 규칙을 확인해주세요</h2>
+        <p><strong>기본 규칙:</strong></p>
+        <ol>
+          <li>다른 플레이어를 존중하세요</li>
+          <li>그리핑(Griefing) 금지</li>
+          <li>부적절한 언어 사용 금지</li>
+          <li>핵 및 치트 프로그램 사용 금지</li>
+          <li>스팸 및 광고 금지</li>
+        </ol>
+        <p>규칙 위반 시 경고 없이 차단될 수 있습니다.</p>
+        <p>자세한 내용은 Discord에서 확인하세요.</p>
+      ]]></description>
+      <author>관리자</author>
+      <pubDate>Thu, 14 Nov 2024 09:00:00 +0000</pubDate>
+      <link>https://discord.gg/yourserver</link>
+      <guid>amethystia-news-003</guid>
+    </item>
+    
+    <item>
+      <title>🎮 이벤트: 첫 번째 보스 레이드!</title>
+      <description><![CDATA[
+        <h2>커뮤니티 이벤트 개최</h2>
+        <p>11월 20일 저녁 8시에 첫 번째 보스 레이드가 진행됩니다!</p>
+        <p><strong>이벤트 상세:</strong></p>
+        <ul>
+          <li>일시: 2024년 11월 20일 20:00 (KST)</li>
+          <li>장소: 월드 스폰 지점</li>
+          <li>보상: 레어 아이템 및 커스텀 장비</li>
+        </ul>
+        <p>모든 플레이어 참여 가능합니다. 많은 참여 부탁드립니다!</p>
+      ]]></description>
+      <author>이벤트 팀</author>
+      <pubDate>Wed, 13 Nov 2024 15:00:00 +0000</pubDate>
+      <link>https://discord.gg/yourserver</link>
+      <guid>amethystia-news-004</guid>
+    </item>
+
+  </channel>
+</rss>
