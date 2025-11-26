@@ -326,9 +326,9 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 5455,
-            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/files/options.txt",
-            "MD5": "f4cada2be1b361d62d79434f39c9c265",
+            "size": 5474,
+            "url": "https://leereij.github.io/amethystia-launcher/servers/Amethystia-1.21.4/files/options.txt",
+            "MD5": "f8052e484df97fd9bb41e3ef0748fd24",
             "path": "options.txt"
           }
         }
