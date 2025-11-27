@@ -154,20 +154,6 @@
           }
         },
         {
-          "id": "com.seibel:distanthorizons:2.3.2-b@jar",
-          "name": "Distant Horizons",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 17921078,
-            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/fabricmods/optionaloff/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.4.jar",
-            "MD5": "9fc3979a7fc99fd1fce370c21c2a02eb"
-          },
-          "required": {
-            "value": false,
-            "def": false
-          }
-        },
-        {
           "id": "traben.entity_model_features:entity_model_features:2.4.1@jar",
           "name": "Entity Model Features",
           "type": "FabricMod",
