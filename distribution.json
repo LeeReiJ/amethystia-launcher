@@ -306,17 +306,6 @@
           "required": {
             "value": false
           }
-        },
-        {
-          "id": "options.txt",
-          "name": "options.txt",
-          "type": "File",
-          "artifact": {
-            "size": 3618,
-            "url": "https://leereij.github.io/servers/Amethystia-1.21.4/files/options.txt",
-            "MD5": "4176705a1b3c26afb31c793c065159ef",
-            "path": "options.txt"
-          }
         }
       ]
     }
