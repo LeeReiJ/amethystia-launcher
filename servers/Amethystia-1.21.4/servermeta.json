@@ -12,7 +12,5 @@
   "fabric": {
     "version": "0.16.9"
   },
-  "untrackedFiles": [
-    "options.txt"
-  ]
+  "untrackedFiles": []
 }
