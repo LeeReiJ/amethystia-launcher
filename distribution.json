@@ -25,7 +25,7 @@
           "artifact": {
             "size": 1387357,
             "MD5": "27a6ef87676ce6316c777d81c1cd2962",
-            "url": "https://leereij.github.io/repo/lib/net/fabricmc/fabric-loader/0.16.9/fabric-loader-0.16.9.jar"
+            "url": "https://leereij.github.io/amethystia-launcher/repo/lib/net/fabricmc/fabric-loader/0.16.9/fabric-loader-0.16.9.jar"
           },
           "subModules": [
             {
@@ -35,7 +35,7 @@
               "artifact": {
                 "size": 2857,
                 "MD5": "732f52a18b2211b3cf021ec3c7e45c96",
-                "url": "https://leereij.github.io/repo/versions/1.21.4-fabric-0.16.9/1.21.4-fabric-0.16.9.json"
+                "url": "https://leereij.github.io/amethystia-launcher/repo/versions/1.21.4-fabric-0.16.9/1.21.4-fabric-0.16.9.json"
               }
             },
             {
@@ -45,7 +45,7 @@
               "artifact": {
                 "size": 126093,
                 "MD5": "e2cdd32d198ad31427d298eee9d39d8d",
-                "url": "https://leereij.github.io/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
+                "url": "https://leereij.github.io/amethystia-launcher/repo/lib/org/ow2/asm/asm/9.7.1/asm-9.7.1.jar"
               }
             },
             {
@@ -55,7 +55,7 @@
               "artifact": {
                 "size": 35126,
                 "MD5": "4cd9e7178dfb85371bba3077e40cd514",
-                "url": "https://leereij.github.io/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
+                "url": "https://leereij.github.io/amethystia-launcher/repo/lib/org/ow2/asm/asm-analysis/9.7.1/asm-analysis-9.7.1.jar"
               }
             },
             {
@@ -65,7 +65,7 @@
               "artifact": {
                 "size": 73459,
                 "MD5": "8344aea3c8b7d707e9d35a62710e77c9",
-                "url": "https://leereij.github.io/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
+                "url": "https://leereij.github.io/amethystia-launcher/repo/lib/org/ow2/asm/asm-commons/9.7.1/asm-commons-9.7.1.jar"
               }
             },
             {
@@ -75,7 +75,7 @@
               "artifact": {
                 "size": 51939,
                 "MD5": "e85029f613b6469989cc7cf53fe06b74",
-                "url": "https://leereij.github.io/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
+                "url": "https://leereij.github.io/amethystia-launcher/repo/lib/org/ow2/asm/asm-tree/9.7.1/asm-tree-9.7.1.jar"
               }
             },
             {
@@ -85,7 +85,7 @@
               "artifact": {
                 "size": 94519,
                 "MD5": "36d373a9cd6cad9b35db9f984c6b4bbb",
-                "url": "https://leereij.github.io/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
+                "url": "https://leereij.github.io/amethystia-launcher/repo/lib/org/ow2/asm/asm-util/9.7.1/asm-util-9.7.1.jar"
               }
             },
             {
@@ -95,7 +95,7 @@
               "artifact": {
                 "size": 1494834,
                 "MD5": "991ca8be2c408fe19eb64014d8a18243",
-                "url": "https://leereij.github.io/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
+                "url": "https://leereij.github.io/amethystia-launcher/repo/lib/net/fabricmc/sponge-mixin/0.15.4+mixin.0.8.7/sponge-mixin-0.15.4+mixin.0.8.7.jar"
               }
             },
             {
@@ -105,7 +105,7 @@
               "artifact": {
                 "size": 701826,
                 "MD5": "d0f4187a62328d4a95f3428434efbd48",
-                "url": "https://leereij.github.io/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
+                "url": "https://leereij.github.io/amethystia-launcher/repo/lib/net/fabricmc/intermediary/1.21.4/intermediary-1.21.4.jar"
               }
             }
           ]
