@@ -12,7 +12,7 @@
       "description": "Welcome to Amethystia Server - Minecraft 1.21.4 with Fabric",
       "icon": "https://leereij.github.io/amethystia-launcher/logo.png",
       "version": "1.0.0",
-      "address": "208.92.235.74:25566",
+      "address": "208.92.235.74:25565",
       "minecraftVersion": "1.21.4",
       "mainServer": true,
       "autoconnect": true,
